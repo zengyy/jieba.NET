@@ -20,7 +20,7 @@
     <ProjectReference Include="..\Segmenter\Segmenter.Netstandard2.csproj" />
   </ItemGroup>
   <PropertyGroup>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
     <AssemblyOriginatorKeyFile>..\..\snks\JiebaNet.Analyser.snk</AssemblyOriginatorKeyFile>
